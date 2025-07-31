@@ -32,3 +32,9 @@ Monitor and log all uses of `sudo` every 30 seconds on Kali Linux to detect and 
 
 ## Code
 Access the code [here](code.py)
+
+## Conclusion
+
+This lightweight Python-based monitor provides an effective logbook of administrative actions.  
+Timestamped sudo entries help detect unauthorized privilege escalations, support forensic analysis, and strengthen system security.
+
