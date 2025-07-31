@@ -30,7 +30,5 @@ Monitor and log all uses of `sudo` every 30 seconds on Kali Linux to detect and 
 ## Screenshot
 ![Sudo Monitoring Output](output.png)
 
-## Sample Log Entries
-```text
-2025-07-31 14:05:10.333552 - Jul 31 14:05:10 kali sudo[1751]:    kali : TTY=pts/1 ; PWD=/home/kali/sudo_monitor ; USER=root ; COMMAND=/usr/bin/ls
-2025-07-31 14:06:10.344309 - Jul 31 14:05:45 kali sudo[1780]:    kali : TTY=pts/3 ; PWD=/home/kali/sudo_monitor ; USER=root ; COMMAND=/usr/bin/ls
+## Code
+Access the code [here](code.py)
