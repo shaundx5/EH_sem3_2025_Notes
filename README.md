@@ -1,20 +1,13 @@
 # Honours Cybersecurity for Ethical Hacking
 
-## <b>Topic:</b> 
+## <b>Repository for Assignments</b> 
 
-### Sudo Usage Logging
+### Assignment 1
 
+- <b>Sudo Usage Logging</b>
+- <b>01<sup>st</sup> August, 2025</b>
 
-## <b>Submitted by:</b> 
 
 ### Shaun Davis S (2462147) 
-
-
-## <b>Class:</b> 
-
 ### 3 BTCS AIML-C
 
-
-## <b>Submitted to:</b> 
-
-### Mr. Vyshnavu
